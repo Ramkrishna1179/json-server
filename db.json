@@ -1,24 +1,9 @@
 {
   "posts": [
     {
-      "id": 1,
-      "name": "ram",
-      "email": "ram@gmail.com"
-    },
-    {
       "id": 2,
-      "name": "krishna",
-      "email": "krishna@gmail.com"
-    },
-    {
-      "id": 3,
-      "name": "yadav",
-      "email": "yadav@gmail.com"
-    },
-    {
-      "id": 6,
-      "name": "pandey",
-      "email": "pandey@gmail.com"
+      "name": "pablu",
+      "email": "Pandey@gmail.com"
     },
     {
       "id": 7,
@@ -26,18 +11,17 @@
       "email": "pablu_pandey@gmail.com"
     },
     {
+      "id": 6,
+      "name": "pandey",
+      "email": "pandey@gmail.com"
+    },
+    {
       "id": 8,
-      "name": "amar",
+      "name": "akbarrr",
       "email": "amar@gmail.com"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
